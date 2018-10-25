@@ -46,8 +46,8 @@ Types
 Algebras
 --------
 
-* [Semiformal definition of an algebra](./algrebras-and-equational-reasoning.md)
-* [Equational reasoning](./algrebras-and-equational-reasoning.md)
+* [Semiformal definition of an algebra](./algrebras.md)
+* [Equational reasoning](./equational-reasoning.md)
 * Semigroup, Monoid
 * [Code design using algebraic reasoning](./code-design-using-algebraic-reasoning.md)
 * Basic algebras for programming
