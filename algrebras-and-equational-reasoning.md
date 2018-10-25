@@ -1,2 +1,0 @@
-Algebras and Equational Reasoning
-=================================
